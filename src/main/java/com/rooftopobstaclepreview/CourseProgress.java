@@ -1,4 +1,4 @@
-package com.betterrooftopagility;
+package com.rooftopobstaclepreview;
 
 import net.runelite.api.coords.WorldPoint;
 

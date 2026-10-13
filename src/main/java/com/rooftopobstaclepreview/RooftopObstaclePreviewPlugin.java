@@ -1,4 +1,4 @@
-package com.betterrooftopagility;
+package com.rooftopobstaclepreview;
 
 import javax.inject.Inject;
 import net.runelite.api.Client;
@@ -9,11 +9,11 @@ import net.runelite.client.plugins.PluginDescriptor;
 import net.runelite.client.ui.overlay.OverlayManager;
 
 @PluginDescriptor(
-	name = "Better Rooftop Agility",
+	name = "Rooftop Obstacle Preview",
 	description = "Shows where each rooftop obstacle's clickbox will be when it is your next click, coloured by click order",
 	tags = {"agility", "rooftop", "clickbox", "overlay", "course"}
 )
-public class BetterRooftopAgilityPlugin extends Plugin
+public class RooftopObstaclePreviewPlugin extends Plugin
 {
 	@Inject
 	private Client client;

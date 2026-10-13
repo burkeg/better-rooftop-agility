@@ -1,4 +1,4 @@
-# Better Rooftop Agility
+# Rooftop Obstacle Preview
 
 Shows where every rooftop obstacle's clickbox will be on screen when it is your next click, so your mouse can be there
 before you land.
