@@ -8,5 +8,5 @@ before you land.
 - Colour is click order: red is next, cooling to blue for the obstacle just done.
 - Gold outlines where the next two or more boxes overlap: click again without moving the mouse.
 
+https://github.com/user-attachments/assets/2a9f74c2-72b2-49da-9c31-0856c8a9a588
 
-https://github.com/user-attachments/assets/5670173f-8a11-476d-803e-8c70ee2469c9
